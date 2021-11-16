@@ -1,3 +1,5 @@
+Yes, this is a wall of text, but reading all of this is recommended to gain a proper understanding of the situation.
+
 List of reasons why installing Windows 11 on an unsupported CPU is a bad idea:
 
 1. Virtualization based security - main reason why your CPU is unsupported (thank your favorite CPU manufacturer for that, not Microsoft - I elaborate on this later), does not support MBEC (encryption part of VBS), without MBEC, it will have to simulate virtualization based security in the future when Windows 11 enables it by default for everyone and you will lose **massive** amounts of performance. VBS being enabled is not an issue on supported CPUs and comes with a minimal performance hit, if any. On unsupported CPUs... it will be **bad**.
