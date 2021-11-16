@@ -1,4 +1,4 @@
-Yes, this is a wall of text, but reading all of this is recommended to gain a proper understanding of the situation.
+Yes, this is a wall of text, but I urge you to read all of this in order to gain a proper understanding of the situation.
 
 List of reasons why installing Windows 11 on an unsupported CPU is a bad idea:
 
