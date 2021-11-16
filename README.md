@@ -16,9 +16,9 @@ Just stay on 10 - you are really not missing out on much, and you'll still have 
 
 But I suppose it's easier to scream at Microsoft than seeing the bigger picture. 
 
-Here is some more information about the requirements:
-
 --
+
+Here is some more information about the requirements:
 
 Direct picture to the relevant part - https://i.imgur.com/EUeLaCU.png
 
