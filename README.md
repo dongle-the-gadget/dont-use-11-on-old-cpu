@@ -19,4 +19,5 @@ But I suppose it's easier to scream at Microsoft than seeing the bigger picture.
 Here is some more information about the requirements:
 
 Direct picture to the relevant part - https://i.imgur.com/EUeLaCU.png
+
 Whole article - https://blogs.windows.com/windows-insider/2021/06/28/update-on-windows-11-minimum-system-requirements/
