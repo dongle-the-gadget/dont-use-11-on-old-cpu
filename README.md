@@ -15,3 +15,8 @@ They aren't cherry picked. They aren't randomly picked, or picked to make you bu
 Just stay on 10 - you are really not missing out on much, and you'll still have a perfectly fine, stable & supported OS for years to come. And who knows, maybe by 2025 you'll have enough for a shiny new device.
 
 But I suppose it's easier to scream at Microsoft than seeing the bigger picture. 
+
+Here is some more information about the requirements:
+
+Direct picture to the relevant part - https://i.imgur.com/EUeLaCU.png
+Whole article - https://blogs.windows.com/windows-insider/2021/06/28/update-on-windows-11-minimum-system-requirements/
