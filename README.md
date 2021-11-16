@@ -6,13 +6,13 @@ List of reasons why installing Windows 11 on an unsupported CPU is a bad idea:
 
 Regarding VBS, or virtualization-based security - Microsoft has been pushing for this specific security feature for 10 whole years. Ever since Windows 8 in 2012. And Intel & AMD only introduced them beginning with Intel 8th gen and Ryzen 2nd gen.
 
-11 exists only to push requirements in order introduce these much needed security features. 11 began development exactly when both Intel & AMD released 8th gen & 2nd gen Ryzen, which introduced support for VBS.
+Windows 11 exists only to push requirements in order introduce these much needed security features. 11 began development exactly when both Intel & AMD released 8th gen & 2nd gen Ryzen, which introduced support for VBS.
 
 If they had introduced these features earlier, I guarantee you a bunch more CPUs would have been supported. But they didn't. And the minimum requirements is what you get.
 
 They aren't cherry picked. They aren't randomly picked, or picked to make you buy a new device. They are the exact generations that first introduced support for virtualization based security, and only the manufacturers are to blame for not listening to Microsoft for a decade.
 
-Just stay on 10 - you are really not missing out on much, and you'll still have a perfectly fine, stable & supported OS for years to come. And who knows, maybe by 2025 you'll have enough for a shiny new device.
+Just stay on Windows 10 - you are really not missing out on much, and you'll still have a perfectly fine, stable & supported OS for years to come. And who knows, maybe by 2025 you'll have enough for a shiny new device.
 
 But I suppose it's easier to scream at Microsoft than seeing the bigger picture. 
 
