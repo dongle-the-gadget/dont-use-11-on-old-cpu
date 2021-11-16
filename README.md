@@ -12,7 +12,7 @@ If they had introduced these features earlier, I guarantee you a bunch more CPUs
 
 They aren't cherry picked. They aren't randomly picked, or picked to make you buy a new device. They are the exact generations that first introduced support for virtualization based security, and only the manufacturers are to blame for not listening to Microsoft for a decade.
 
-**Just stay on Windows 10** - you are really not missing out on much, and you'll still have a perfectly fine, stable & supported OS for years to come. And who knows, maybe by 2025 you'll have enough for a shiny new device.
+**Just stay on Windows 10** - you are really not missing out on much, and you'll still have a perfectly fine, stable & supported OS for years to come. And who knows, maybe by 2025 (the year Windows 10 reaches the end of its life) you'll have enough for a shiny new device.
 
 But I suppose it's easier to scream at Microsoft than seeing the bigger picture. 
 
