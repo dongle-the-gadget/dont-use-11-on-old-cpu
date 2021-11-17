@@ -12,7 +12,7 @@ There will be updates that will not be validated for old devices and they can co
 
 <h3>Kernel checks</h3>
 
-There is a possibility for kernel checks against unsupported CPUs - this means that in the future you may not even be able to get past the BIOS post screen or boot into Windows at all.
+There is a possibility for kernel checks against unsupported CPUs - this means that in the future you may not even be able to get past the BIOS post screen or boot into Windows at all. You are able to bypass all the hardware requirements, but you will not be able to bypass kernel checks unless you somehow gain access to the kernel and make your own modified builds, or you remain on an older build forever which... would not make sense, especially for the security of your device.
 
 <h3>What's the big deal about VBS?</h3>
 
