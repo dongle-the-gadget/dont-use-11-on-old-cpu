@@ -8,7 +8,7 @@ Main reason why your CPU is unsupported (thank your favorite CPU manufacturer fo
 
 <h3>Low quality updates, or the complete lack of updates</h3>
 
-There will be updates that will not be validated for old devices and they can completely brick your system on a regular basis - unsupported CPUs don't exist in Microsoft's eyes anymore. **They may even cut updates completely**[^4]. And no, not having updates is not "bliss" because you hate automatic updates. It is **extremely** bad.
+At the time of writing, unsupported machines **do** get updates. However, there is a 99.9% chance this will change in the future. Tere will be updates that will not be validated for old devices and they can completely brick your system on a regular basis - unsupported CPUs don't exist in Microsoft's eyes anymore. **They may even cut updates completely**[^4]. And no, not having updates is not "bliss" because you hate automatic updates. It is **extremely** bad.
 
 <h3>Kernel checks</h3>
 
