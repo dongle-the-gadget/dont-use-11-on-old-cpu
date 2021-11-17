@@ -4,7 +4,7 @@ Yes, this is a wall of text, but I urge you to read all of this in order to gain
 
 <h3>Virtualization-based security</h3>
 
-Main reason why your CPU is unsupported (thank your favorite CPU manufacturer for that, not Microsoft - I elaborate on this later), does not support MBEC (encryption part of VBS), without MBEC, it will have to simulate virtualization based security in the future when Windows 11 enables it by default for everyone and you will lose **massive** amounts of performance. VBS being enabled is not an issue on supported CPUs and comes with a minimal performance hit, if any. On unsupported CPUs... it will be **bad**.
+Main reason why your CPU is unsupported (thank your favorite CPU manufacturer for that, not Microsoft - I elaborate on this later). Unsupported CPUs do not support MBEC (encryption part of VBS), without MBEC, it will have to simulate virtualization-based security in the future when Windows 11 enables it by default for everyone and you will lose **massive** amounts of performance. VBS being enabled is not an issue on supported CPUs and comes with a minimal performance hit, if any. On unsupported CPUs... it will be **bad**.
 
 <h3>Low quality or lack of updates</h3>
 
@@ -28,7 +28,7 @@ Absolutely. I've just explained why your CPU is unsupported in that whole spiel.
 
 <h3>The requirements are made to push me towards buying a new device!</h3>
 
-No, they're not. The requirements aren't cherry picked, or randomly picked by Microsoft. The minimum CPU requirements are the exact generations that first introduced support for virtualization based security, and only the manufacturers are to blame for not listening to Microsoft for a decade.
+No, they're not. The requirements aren't cherry picked, or randomly picked by Microsoft. The minimum CPU requirements are the exact generations that first introduced support for virtualizatio-based security, and only the manufacturers are to blame for not listening to Microsoft for a decade.
 
 <h3>What should I do?</h3>
 
