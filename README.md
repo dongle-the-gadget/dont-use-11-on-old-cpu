@@ -36,7 +36,7 @@ I guarantee you that article will magically disappear in the future, along with 
 
 <h3>What should I do?</h3>
 
-Well, if it wasn't obvious enough, **just stay on Windows 10** - you are really not missing out on much, and you'll still have a perfectly fine, stable & supported OS for years to come. And who knows, maybe by 2025 (the year Windows 10 reaches the end of its life) you'll have enough for a shiny new device. And when that time comes, you'll finally be able to have 11, which will be more stable, and all of the security goodies it comes with, such as VBS, TPM 2.0, Secure Boot... who knows, maybe even the Pluton chip[^2] will be mainstream by then...
+Well, if it wasn't obvious enough, **just stay on Windows 10** - you are really not missing out on much, and you'll still have a perfectly fine, stable & supported OS for years to come. And who knows, maybe by 2025 (the year Windows 10 reaches the end of its life) you'll have enough for a shiny new device. And when that time comes, you'll finally be able to have Windows 11, which will be more stable, and all of the security goodies it comes with, such as VBS, TPM 2.0, Secure Boot... who knows, maybe even the Pluton chip[^2] will be mainstream by then...
 
 But... I suppose it's easier to scream at Microsoft than seeing and accepting the bigger picture. 
 
