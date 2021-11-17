@@ -1,6 +1,6 @@
 Yes, this is a wall of text, but I urge you to read all of this in order to gain a proper understanding of the situation.
 
-<h2>List of reasons why installing Windows 11 on an unsupported CPU is a bad idea:</h2>
+<h2>Reasons why installing Windows 11 on an unsupported CPU is a bad idea:</h2>
 
 <h3>Virtualization-based security</h3>
 
