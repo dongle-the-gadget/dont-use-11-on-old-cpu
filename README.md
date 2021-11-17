@@ -28,7 +28,7 @@ Absolutely. I've just explained why your CPU is unsupported in that whole spiel.
 
 <h3>The requirements are made to push me towards buying a new device!</h3>
 
-No, they're not. The requirements aren't cherry picked, or randomly picked by Microsoft. The minimum CPU requirements are the exact generations that first introduced support for virtualizatio-based security, and only the manufacturers are to blame for not listening to Microsoft for a decade.
+No, they're not. The requirements aren't cherry picked, or randomly picked by Microsoft. The minimum CPU requirements are the exact generations that first introduced support for virtualization-based security, and only the manufacturers are to blame for not listening to Microsoft for a decade.
 
 <h3>What should I do?</h3>
 
