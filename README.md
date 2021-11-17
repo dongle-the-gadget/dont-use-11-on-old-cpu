@@ -32,7 +32,7 @@ No, they're not. The requirements aren't cherry picked, or randomly picked by Mi
 
 <h3>If we shouldn't upgrade on unsupported hardware, how come Microsoft has an article to bypass the requirements?</h3>
 
-I guarantee you that article will magically disappear in the future, along with any mention of upgrading to 11 on unsupported hardware. This will happen at around the same time when updates are either restricted or cut off, or kernel checks are implemented. They **did** mention that you follow that article **at your own risk**, so they do not care if you proceeded to follow it and that you are now struck by their restrictions.
+I guarantee you that article will magically disappear in the future, along with any mention of upgrading to Windows 11 on unsupported hardware. This will happen at around the same time when updates are either restricted or cut off, or kernel checks are implemented. They **did** mention that you follow that article **at your own risk**, so they do not care if you proceeded to follow it and that you are now struck by their restrictions.
 
 <h3>What should I do?</h3>
 
