@@ -4,7 +4,7 @@ Yes, this is a wall of text, but I urge you to read all of this in order to gain
 
 <h3>Virtualization-based security</h3>
 
-Main reason why your CPU is unsupported (thank your favorite CPU manufacturer for that, not Microsoft - I elaborate on this later). Unsupported CPUs do not support MBEC. Without MBEC, the processor will have to simulate virtualization-based security in the future when Windows 11 enables it by default for everyone and you will lose **massive** amounts of performance[^3]. VBS being enabled is not an issue on supported CPUs and comes with a minimal performance hit, if any. On unsupported CPUs... it will be **bad**.
+Main reason why your CPU is unsupported (thank your favorite CPU manufacturer for that, not Microsoft - I elaborate on this later). Unsupported CPUs do not support MBEC. Without MBEC, the processor will have to simulate virtualization-based security in the future when Windows 11 enables it by default for everyone and you will lose **massive** amounts of performance[^3]. VBS being enabled is not an issue on supported CPUs and comes with a minimal performance hit, if any. On unsupported CPUs... it will be **bad**. By locking out CPUs who do not support VBS & MBEC from installing Windows 11, they are actively trying to avoid a Windows Vista situation.
 
 <h3>Low quality updates, or the complete lack of updates</h3>
 
