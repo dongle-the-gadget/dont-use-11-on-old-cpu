@@ -28,7 +28,7 @@ Absolutely. I've just explained why your CPU is unsupported in that whole spiel.
 
 <h3>The requirements are made to push me towards buying a new device!</h3>
 
-No, they're not. The requirements aren't cherry picked, or randomly picked by Microsoft. The minimum CPU requirements are the exact generations that first introduced support for virtualization-based security. It is not a coincidence that those generations are the minimum, it is intended. And you know who to blame for the requirements already. If not, please re-read "What's the big deal about VBS?", and read it thoroughly this time.
+No, they're not. The requirements aren't cherry picked, or randomly picked by Microsoft. The minimum CPU requirements are the exact generations that first introduced support for virtualization-based security. It is not a coincidence that those generations are the minimum, it is intended. And you know who to blame for the requirements already. If not, please re-read the third paragraph in the "What's the big deal about VBS?" section.
 
 <h3>If we shouldn't upgrade on unsupported hardware, how come Microsoft has an article to bypass the requirements?</h3>
 
