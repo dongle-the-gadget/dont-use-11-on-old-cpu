@@ -6,7 +6,7 @@ Yes, this is a wall of text, but I urge you to read all of this in order to gain
 
 Main reason why your CPU is unsupported (thank your favorite CPU manufacturer for that, not Microsoft - I elaborate on this later). Unsupported CPUs do not support MBEC (encryption part of VBS), without MBEC, it will have to simulate virtualization-based security in the future when Windows 11 enables it by default for everyone and you will lose **massive** amounts of performance. VBS being enabled is not an issue on supported CPUs and comes with a minimal performance hit, if any. On unsupported CPUs... it will be **bad**.
 
-<h3>Low quality or lack of updates</h3>
+<h3>Low quality updates, or the complete lack of updates</h3>
 
 There will be updates that will not be validated for old devices and they can completely brick your system on a regular basis - unsupported CPUs don't exist in Microsoft's eyes anymore. **They may even cut updates completely**. And no, not having updates is not "bliss" because you hate automatic updates. It is **extremely** bad.
 
