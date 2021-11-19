@@ -1,3 +1,5 @@
+**TL;DR** - Installing Windows 11 on an unsupported CPU will have bad consequences in the future, including but not limited to: significantly degraded performance, no validation of updates for your device (or possibly no updates at all), and the very likely possibility of kernel checks against your CPU resulting in an unbootable machine. I recommend you stick with Windows 10 until 2025 or until you're able to get a new device, it is still a perfectly fine, stable & up to date OS. If you want me to validate these claims, then keep reading.
+
 Yes, this is a wall of text, but I urge you to read all of this in order to gain a proper understanding of the situation.
 
 <h2>Reasons why installing Windows 11 on an unsupported CPU is a bad idea</h2>
