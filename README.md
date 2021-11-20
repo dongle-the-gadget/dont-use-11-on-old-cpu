@@ -1,4 +1,4 @@
-**TL;DR** - Installing Windows 11 on an unsupported CPU will have bad consequences in the future, including but not limited to: significantly degraded performance, no validation of updates for your device (or possibly no updates at all), and the very likely possibility of kernel checks against your CPU resulting in an unbootable machine. I recommend you stick with Windows 10 until 2025 or until you're able to get a new device, it is still a perfectly fine, stable & up to date OS. If you want me to validate these claims, then keep reading.
+**TL;DR** - Installing Windows 11 on an unsupported CPU will have bad consequences in the future, including but not limited to: significantly degraded performance, no validation of updates for your device (or possibly no updates at all), the very likely possibility of kernel checks against your CPU resulting in an unbootable machine, and little to no driver support from CPU manufacturers for unsupported CPUs. I recommend you stick with Windows 10 until 2025 or until you're able to get a new device, it is still a perfectly fine, stable & up to date OS. If you want me to validate these claims, then keep reading.
 
 Yes, this is a wall of text, but I urge you to read all of this in order to gain a proper understanding of the situation.
 
@@ -18,7 +18,7 @@ There is a possibility for kernel checks against unsupported CPUs - this means t
 
 <h3>Reliability and support</h3>
 
-The CPU generations that are not in Microsoft's list of supported CPUs have their support halted from their manufacturers, which means that there would be a higher chance of crashing and outdated drivers. In fact, Intel's 8th generation CPUs (codenamed Coffee Lake), is at the time of writing, reaching its end of days. Some 8th Gen CPUs have already been discontinued. For example, the Intel i7 8565U, a supported mobile CPU, has a shipment discontinuation date of November 19th 2021.[^5]
+The CPU generations that are not in Microsoft's list of supported CPUs have their support halted from their manufacturers, which means that there would be a higher chance of crashing and outdated drivers. In fact, Intel's 8th generation of CPUs (codenamed Coffee Lake), is, at the time of writing, reaching its end of life. Some 8th Gen CPUs have already been discontinued. For example, the i7-8565U, a supported mobile CPU, will reach its shipment discontinuation on the date of November 19th 2021.[^5]
 
 <h2>Explaining the requirements</h2>
 
@@ -52,4 +52,4 @@ But... I suppose it's easier to scream at Microsoft than seeing and accepting th
 [^2]: [Pluton chip](https://www.microsoft.com/security/blog/2020/11/17/meet-the-microsoft-pluton-processor-the-security-chip-designed-for-the-future-of-windows-pcs/)
 [^3]: [Microsoft: "Because it makes use of Mode Based Execution Control, HVCI works better with Intel Kaby Lake or AMD Zen 2 CPUs and newer. Processors without MBEC will rely on an emulation of this feature, called Restricted User Mode, which has a bigger impact on performance."](https://docs.microsoft.com/en-us/windows/security/threat-protection/device-guard/enable-virtualization-based-protection-of-code-integrity)
 [^4]: [Microsoft: "Your device might malfunction due to these compatibility or other issues. Devices that do not meet these system requirements will no longer be guaranteed to receive updates, including but not limited to security updates."](https://support.microsoft.com/en-us/windows/installing-windows-11-on-devices-that-don-t-meet-minimum-system-requirements-0b2dc4a2-5933-4ad4-9c09-ef0a331518f1)
-[^5]: [Intel's Product Change Notification regarding Intel(R) Core i3-8140U Processor Product Discontinuation](https://qdms.intel.com/dm/i.aspx/ECC49A54-9E4A-4930-AE08-572B4414D498/PCN118065-00.pdf)
+[^5]: [Intel on the discontinuation of the Core i3-8140U CPU](https://qdms.intel.com/dm/i.aspx/ECC49A54-9E4A-4930-AE08-572B4414D498/PCN118065-00.pdf)
