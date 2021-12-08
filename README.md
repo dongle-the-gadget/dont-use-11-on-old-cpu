@@ -8,7 +8,7 @@ Main reason why your CPU is unsupported (thank your favorite CPU manufacturer fo
 
 By locking out CPUs who do not support VBS & MBEC from installing Windows 11, they are actively trying to avoid a Windows Vista situation where the performance was worse than desired.
 
-A note about the 7th generation of Intel Core CPUs, codenamed "Kaby Lake" - its CPUs **do** support VBS and MBEC. However, they are still **not** on Microsoft's supported CPU list, and the generation has reached its end of life, and as such manufacturer support for these CPUs is completely halted. See "Reliability and support" below for more information.
+A note about the 7th generation of Intel Core CPUs, codenamed "Kaby Lake" - its CPUs **do** support VBS and MBEC. However, they are still **not** on Microsoft's supported CPU list, and the generation has reached its end of life, and as such manufacturer support for these CPUs is completely halted. See [Reliability and support](#reliability-and-support) below for more information.
 
 ### Low quality updates, or the complete lack of updates
 At the time of writing, unsupported machines **do** get updates. However, there is a 99.9% chance this will change in the future. There will be updates that will not be validated for old devices and they can completely brick your system on a regular basis - unsupported CPUs don't exist in Microsoft's eyes anymore. **They may even cut updates completely**[^2]. And no, not having updates is not "bliss" because you hate automatic updates. It is **extremely bad**.
